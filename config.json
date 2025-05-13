@@ -1,7 +1,0 @@
-﻿{
-  "TestConfiguration": {
-    "BaseUrl": "https://gorest.co.in/public/v2/",
-    "UsersEndpoint": "users",
-    "Token": "ae2a96fdbfbcfa30c945bc87dccfbe953107a544dfced9ae7fc22671c1c042d9"
-  }
-}
